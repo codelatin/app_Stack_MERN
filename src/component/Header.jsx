@@ -4,7 +4,7 @@ import { FaPlay } from 'react-icons/fa'
 import cabecera from '../assets/banner.jpg'
 const Header = () => {
   return (
-    <div className='py-3 px-10 sm:px-4 md:px-6 lg:px-6 bg-neon-dark'>
+    <div className='py-3 px-10 sm:px-4 md:px-6 lg:px-6 bg-orange-200'>
         <div className='container mx-auto py-[16vh]'>
             <div className='grid grid-cols-1 relative lg:grid-cols-2 gap-8 items-center'>
               <div className='lg:w-[32rem] w-full flex flex-col space-y-6'>
